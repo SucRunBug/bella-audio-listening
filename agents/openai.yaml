@@ -1,0 +1,4 @@
+interface:
+  display_name: "bella-audio-listening"
+  short_description: "把英语音频生成离线听读网页，逐句听原声、中英对照并保存生词"
+  default_prompt: "使用 $bella-audio-listening，将我上传的音频生成双语听读网页。"
